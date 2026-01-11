@@ -58,7 +58,7 @@ const ProjectCard = ({ project, index }: { project: any; index: number }) => {
         <motion.div className="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none" />
 
         {/* Navigation Arrows */}
-        {project.images.length > 1 && isHovered && (
+        {project.images.length > 1 && (
           <>
             <motion.button
               initial={{ opacity: 0, x: -10 }}
