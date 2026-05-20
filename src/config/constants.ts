@@ -1,4 +1,4 @@
-const experienceYears = '2.10+';
+const experienceYears = '3+';
 
 export const siteConfig = {
   name: 'Shubham Yadav',
