@@ -42,8 +42,8 @@ export const skillsConfig = {
       icon: Palette,
       skills: [
         { name: 'React.js', level: 95 },
+        { name: 'Next.js', level: 80 },
         { name: 'Redux Toolkit', level: 90 },
-        { name: 'Zustand', level: 85 },
         { name: 'Tailwind CSS', level: 90 },
       ],
     },
